@@ -31,4 +31,14 @@ While Seaborn builds upon Matplotlib, they serve different primary purposes, mak
 * Use **Matplotlib** when you need ultimate control, custom layouts, or specialized plots like embedding images, generating 3D surfaces, or drawing simple lines/bars where data relationships aren't the focus.
 * Use **Seaborn** when your goal is to quickly and effectively visualize the **statistical relationships** within your data using professional, predefined aesthetics.
 
-Let's get started with [Chapter 1: Introduction](./introduction.ipynb)
+We will focus on the following sections for our workshop, which will cover more than plotting methods, such as statistical analysis, distributions, error, and regression:
+* [Chapter 1: Introduction](./introduction.ipynb)
+* [Chapter 2: Overview of Seaborn plotting functions](./function_overview.ipynb)
+* [Chapter 3: Data Structures Accepted by Seaborn](./data_structure.ipynb)
+* [Chapter 4: Visualizing Statistical Relationships](./relational.ipynb)
+* [Chapter 5: Visualizing Data Distributions](./distributions.ipynb)
+* [Chapter 6: Visualizing Categorical Data](./categorical.ipynb)
+* [Chapter 7: Multiplot Grids](./axis_grids.ipynb)
+* [Chapter 8: Statistical Estimation and Error](./error_bars.ipynb)
+* [Chapter 9: Regression Fits](./regression.ipynb)
+* [Chapter 10: Object Plotting](./objects_interface.ipynb)
