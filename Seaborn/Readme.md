@@ -32,13 +32,13 @@ While Seaborn builds upon Matplotlib, they serve different primary purposes, mak
 * Use **Seaborn** when your goal is to quickly and effectively visualize the **statistical relationships** within your data using professional, predefined aesthetics.
 
 We will focus on the following sections for our workshop, which will cover more than plotting methods, such as statistical analysis, distributions, error, and regression:
-* [Chapter 1: Introduction](./introduction.ipynb)
-* [Chapter 2: Overview of Seaborn plotting functions](./function_overview.ipynb)
-* [Chapter 3: Data Structures Accepted by Seaborn](./data_structure.ipynb)
-* [Chapter 4: Visualizing Statistical Relationships](./relational.ipynb)
-* [Chapter 5: Visualizing Data Distributions](./distributions.ipynb)
-* [Chapter 6: Visualizing Categorical Data](./categorical.ipynb)
-* [Chapter 7: Multiplot Grids](./axis_grids.ipynb)
-* [Chapter 8: Statistical Estimation and Error](./error_bars.ipynb)
-* [Chapter 9: Regression Fits](./regression.ipynb)
-* [Chapter 10: Object Plotting](./objects_interface.ipynb)
+* [Module 1: Introduction](./Mod1-introduction.ipynb)
+* [Module 2: Overview of Seaborn plotting functions](./Mod2-function_overview.ipynb)
+* [Module 3: Data Structures Accepted by Seaborn](./Mod3-data_structure.ipynb)
+* [Module 4: Visualizing Statistical Relationships](./Mod4-relational.ipynb)
+* [Module 5: Visualizing Data Distributions](./Mod5-distributions.ipynb)
+* [Module 6: Visualizing Categorical Data](./Mod6-categorical.ipynb)
+* [Module 7: Multiplot Grids](./Mod7-axis_grids.ipynb)
+* [Module 8: Statistical Estimation and Error](./Mod8-error_bars.ipynb)
+* [Module 9: Regression Fits](./Mod9-regression.ipynb)
+* [Module 10: Object Plotting](./Mod10-objects_interface.ipynb)
