@@ -9,6 +9,12 @@ __pycache__/
 #figures from exercises
 figures/*
 
+# hidden exercises
+Dev/*
+*Dev/*
+*Dev1.ipynb
+*Dev2.ipynb
+
 # Distribution / packaging
 .Python
 build/

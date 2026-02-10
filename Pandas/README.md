@@ -47,3 +47,5 @@ The tutorial covers the following topics:
 - Reading Data
 - Writing Data
 
+
+We will be working through the [Exercise](./PandasExercise1.ipynb) in class for an active learning experince.
