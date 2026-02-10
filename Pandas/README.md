@@ -1,6 +1,9 @@
 # Hands-On-With-Pandas 🐼
 
-A Beginner-Friendly Pandas Tutorial designed to walk  through the essentials of data manipulation and analysis using Python's powerful library, Pandas. 
+A Beginner-Friendly Pandas 
+
+
+Tutorial designed to walk  through the essentials of data manipulation and analysis using Python's powerful library, Pandas. 
 This tutorial has been modified from [ajitsingh98/Hands-on-with-Pandas](https://github.com/ajitsingh98/Hands-on-with-Pandas) via the MIT License.
 The tutorial covers the following topics:
 
